@@ -1,0 +1,4 @@
+sagemaker>=2.190.0
+boto3>=1.26.137
+awscli>=1.27.137
+ipywidgets>=8.0.0
